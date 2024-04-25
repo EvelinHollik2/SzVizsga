@@ -1,0 +1,8 @@
+Manage Nuget kereső álltal letöltjük a MySql.Data-t
+class létrehozása --> adatok, constructor létrehozása
+
+
+class létrehozása --> adatbázis -> using MySql.Data.MySqlClient;
+Command & Connection létrhozása
+
+
